@@ -111,8 +111,3 @@ clear:function() {
 readerJS.W = [];
 }
 };
-readerJS.addstuff("hello");
-alert(readerJS.read("hello world", " "));
-
-
-
